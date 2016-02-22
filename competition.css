@@ -1,0 +1,117 @@
+body{
+	color: black;
+	text-align: center;
+	margin: 100px 150px 80px 80px;
+	background-image: url("christmas.jpg");
+	background-repeat: no-repeat;
+}
+
+.title{
+	font-family: "Apple Chancery", sans-serif, monospace;
+	font-size: 100px;
+	font-style: bold;
+	color: black;
+	outline-style: dotted;
+	outline-color: gray;
+	margin-bottom: 10px;
+	padding: 20px;
+}
+
+.p{
+	color: gray;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+div.container{
+	border-style: double;
+	border-color: white;
+}
+
+div.body1{
+	text-align: left;
+	background-color: rgb(158, 214, 223);
+	margin-top: 20px;
+	margin-bottom: 50px;
+	border: double;
+	border-color: gray;
+	border-radius: 25px;
+	padding: 20px 20px;
+}
+
+div.body2{
+	text-align: right;
+	background-color: rgb(158, 214, 223);
+	margin-bottom: 50px;
+	border: double;
+	border-color: gray;
+	border-radius: 25px;
+	padding: 20px 20px;
+}
+
+div.body3{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+div.container2{
+	font-family: Helvetica;
+	font-size: 20px;
+}
+
+.social-buttons{
+	color: white;
+	border: none;
+    padding: 40px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button1{
+	background-color: #00acee;
+	border-color: #009ad5;
+	font-size: 20px;
+}
+
+.button2{
+	background-color: #4868ac;
+	border-color: #314776;
+	font-size: 20px;
+}
+
+.button3{
+	background-color: #b62f26;
+	border-color: #b62f26;
+	font-size: 20px;
+}
+
+div.contact{
+	text-align: center;
+	padding-top: 10px;
+}
+
+div.footer{
+	padding-top: 10px;
+}
+
+
+
